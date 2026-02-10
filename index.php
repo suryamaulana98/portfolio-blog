@@ -20,7 +20,7 @@
       <div class="container">
         <div class="relative flex items-center justify-between">
           <div class="px-4">
-            <a href="#home" class="block py-6 text-lg font-bold text-primary">Surya Maulana</a>
+            <a href="#home" class="block py-6 text-lg font-bold text-primary">Web Portofolio</a>
           </div>
           <div class="flex items-center px-4">
             <button id="hamburger" name="hamburger" type="button" class="absolute right-4 block lg:hidden">
@@ -43,12 +43,8 @@
                 <li class="group">
                   <a href="#portfolio" class="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Portfolio</a>
                 </li>
-                <li class="group">
-                  <a href="#clients" class="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Clients</a>
-                </li>
-                <li class="group">
-                  <a href="#blog" class="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Blog</a>
-                </li>
+          
+
                 <li class="group">
                   <a href="#contact" class="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Contact</a>
                 </li>
@@ -78,7 +74,7 @@
         <div class="flex flex-wrap">
           <div class="w-full self-center px-4 lg:w-1/2">
             <h1 class="text-base font-semibold text-primary md:text-xl">Halo Semua 👋, saya <span class="mt-1 block text-4xl font-bold text-dark dark:text-white lg:text-5xl">Surya Maulana Akhmad</span></h1>
-            <h2 class="mb-5 text-lg font-medium text-secondary lg:text-2xl">Student & <span class="text-dark dark:text-white">Full Stack Web Developer</span></h2>
+            <h2 class="mb-5 text-lg font-medium text-secondary lg:text-2xl">Student & <span class="text-dark dark:text-white">Web Developer</span></h2>
             <p class="mb-10 font-medium leading-relaxed text-secondary">Belajar web programming itu mudah dan menyenangkan bukan. <span class="font-bold text-dark dark:text-white">bukan!</span></p>
 
             <a href="#" class="rounded-full bg-primary py-3 px-8 text-base font-semibold text-white transition duration-300 ease-in-out hover:opacity-80 hover:shadow-lg">Hubungi Saya</a>
@@ -86,8 +82,8 @@
          <div class="w-full self-end px-4 lg:w-1/2">
   <div class="relative mt-10 lg:right-0 lg:mt-9">
     <!-- gambar dinaikkan -->
-    <img src="dist/img/surya.png" 
-     alt="Sandhika Galih" 
+    <img src="dist/img/foto_surya-removebg-preview.png" 
+     alt="Surya" 
      class="relative z-10 mx-auto max-w-full " />
 
     <!-- svg tetap di bawah -->
@@ -115,31 +111,20 @@
           <div class="mb-10 w-full px-4 lg:w-1/2">
             <h4 class="mb-3 text-lg font-bold uppercase text-primary">Tentang Saya</h4>
             <h2 class="mb-5 max-w-md text-3xl font-bold text-dark dark:text-white lg:text-4xl">Informasi Tentang Saya</h2>
-            <p class="max-w-xl text-base font-medium text-secondary lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id temporibus maiores sequi vitae saepe iusto deleniti!</p>
+            <p class="max-w-xl text-base font-medium text-secondary lg:text-lg">Saya adalah mahasiswa Teknik Informatika di Universitas Trunojoyo Madura yang memiliki antusiasme tinggi dalam dunia Web Development dan IT. Saya senang menerjemahkan ide menjadi kode dan membangun aplikasi web yang fungsional serta responsif.</p>
           </div>
           <div class="w-full px-4 lg:w-1/2">
             <h3 class="mb-4 text-2xl font-semibold text-dark dark:text-white lg:pt-10 lg:text-3xl">Mari berteman</h3>
             <p class="mb-6 text-base font-medium text-secondary lg:text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quos, hic animi quasi ipsum exercitationem ipsam incidunt voluptatem.
+              Saya percaya bahwa ide hebat lahir dari diskusi dan kolaborasi. Jika Anda tertarik untuk bekerja sama dalam sebuah proyek, berdiskusi seputar teknologi terbaru, atau sekadar ingin menyapa, jangan ragu untuk menghubungi saya melalui media sosial di bawah ini.
             </p>
             <div class="flex items-center">
               <!-- Youtube -->
-              <a
-                href="https://youtube.com/webprogrammingunpas"
-                target="_blank"
-                class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-              >
-                <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                  <title>YouTube</title>
-                  <path
-                    d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
-                  />
-                </svg>
-              </a>
+            
 
               <!-- Instagram -->
               <a
-                href="https://instagram.com/sandhikagalih"
+                href="https://www.instagram.com/suryamaulnaa44/"
                 target="_blank"
                 class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
@@ -152,36 +137,10 @@
               </a>
 
               <!-- Twitter -->
-              <a
-                href="https://twitter.com/sandhikagalih"
-                target="_blank"
-                class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-              >
-                <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                  <title>Twitter</title>
-                  <path
-                    d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"
-                  />
-                </svg>
-              </a>
-
-              <!-- TikTok -->
-              <a
-                href="https://tiktok.com/@sandhika.galih"
-                target="_blank"
-                class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-              >
-                <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                  <title>TikTok</title>
-                  <path
-                    d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"
-                  />
-                </svg>
-              </a>
-
+           
               <!-- LinkedIn -->
               <a
-                href="https://linkedin.com/in/sandhikagalih"
+                href="https://www.linkedin.com/in/surya-maulana-akhmad-32a68a309/"
                 target="_blank"
                 class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
@@ -207,7 +166,7 @@
             <h4 class="mb-2 text-lg font-semibold text-primary">Portfolio</h4>
             <h2 class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl">Project Terbaru</h2>
             <p class="text-md font-medium text-secondary md:text-lg">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus porro consequuntur alias, commodi nemo enim aliquam ipsam obcaecati? Assumenda, ipsam?
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             </p>
           </div>
         </div>
@@ -215,45 +174,28 @@
         <div class="flex w-full flex-wrap justify-center px-4 xl:mx-auto xl:w-10/12">
           <div class="mb-12 p-4 md:w-1/2">
             <div class="overflow-hidden rounded-md shadow-md">
-              <img src="dist/img/portfolio/1.png" alt="Landing Page" width="w-full" />
+              <a href="https://github.com/suryamaulana98/KESEHATAN_DIGITAL/tree/main/kesehatan_digital" target="_blank">
+                <img src="dist/img/portfolio/uks.png" alt="Laundry Management" width="w-full" class="transition duration-500 hover:scale-105 hover:shadow-xl" />
+              </a>
             </div>
-            <h3 class="mt-5 mb-3 text-xl font-semibold text-dark dark:text-white">Landing Page Sandhika Galih</h3>
-            <p class="text-base font-medium text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, iusto! Aliquam, corporis.</p>
+            <h3 class="mt-5 mb-3 text-xl font-semibold text-dark dark:text-white">Sistem Manajemen UKS SMKN 1 Lumajang</h3>
+            <p class="text-base font-medium text-secondary">Sistem manajemen Unit Kesehatan Sekolah (UKS) berbasis web untuk SMKN 1 Lumajang. Dirancang untuk mempermudah pencatatan kesehatan siswa, manajemen obat, dan laporan kunjungan.</p>
+          </div>
+          <div class="mb-12 p-4 md:w-1/2">
+            <div class="overflow-hidden rounded-md shadow-md">
+              <a href="https://github.com/yohanesokta/paw_studycase.git" target="_blank">
+                <img src="dist/img/portfolio/laundry.png" alt="Laundry Management" width="w-full" class="transition duration-500 hover:scale-105 hover:shadow-xl" />
+              </a>
+            </div>
+            <h3 class="mt-5 mb-3 text-xl font-semibold text-dark dark:text-white">Studi Kasus Manajemen Laundry</h3>
+            <p class="text-base font-medium text-secondary">Sistem manajemen laundry berbasis web untuk menyederhanakan operasional transaksi, pengelolaan pelanggan, dan pelaporan.</p>
           </div>
         </div>
       </div>
     </section>
     <!-- Portfolio Section End -->
 
-    <!-- Blog Section Start -->
-    <section id="blog" class="bg-slate-100 pt-36 pb-32 dark:bg-dark">
-      <div class="container">
-        <div class="w-full px-4">
-          <div class="mx-auto mb-16 max-w-xl text-center">
-            <h4 class="mb-2 text-lg font-semibold text-primary">Blog</h4>
-            <h2 class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl">Tulisan Terkini</h2>
-            <p class="text-md font-medium text-secondary md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quisquam perspiciatis blanditiis dolores?</p>
-          </div>
-        </div>
 
-        <div class="flex flex-wrap">
-          <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
-            <div class="mb-10 overflow-hidden rounded-xl bg-white shadow-lg dark:bg-slate-800">
-              <img src="https://source.unsplash.com/360x200?programming" alt="Programming" class="w-full" />
-              <div class="py-8 px-6">
-                <h3>
-                  <a href="#" class="mb-3 block truncate text-xl font-semibold text-dark hover:text-primary dark:text-white">Tips Belajar Programming</a>
-                </h3>
-                <p class="mb-6 text-base font-medium text-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat officia beatae quisquam?</p>
-                <a href="#" class="rounded-lg bg-primary py-2 px-4 text-sm font-medium text-white hover:opacity-80">Baca Selengkapnya</a>
-              </div>
-            </div>
-          </div>
-          
-        </div>
-      </div>
-    </section>
-    <!-- Blog Section End -->
 
     <!-- Contact Section Start -->
     <section id="contact" class="pt-36 pb-32 dark:bg-slate-800">
@@ -261,7 +203,7 @@
         <div class="w-full px-4">
           <div class="mx-auto mb-16 max-w-xl text-center">
             <h4 class="mb-2 text-lg font-semibold text-primary">Contact</h4>
-            <h2 class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl">Hubungi Kami</h2>
+            <h2 class="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl">Hubungi Saya</h2>
             <p class="text-md font-medium text-secondary md:text-lg">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis, sed.</p>
           </div>
         </div>
@@ -294,26 +236,13 @@
       <div class="container">
         <div class="flex flex-wrap">
           <div class="mb-12 w-full px-4 font-medium text-slate-300 md:w-1/3">
-            <h2 class="mb-5 text-4xl font-bold text-white">WPU</h2>
+            <h2 class="mb-5 text-4xl font-bold text-white">Surya Maulana</h2>
             <h3 class="mb-2 text-2xl font-bold">Hubungi Kami</h3>
             <p>suryamaulana757@gmail.com</p>
             <p>Jl. Dr. Setiabudhi No. 193</p>
             <p>Lumajang</p>
           </div>
-          <div class="mb-12 w-full px-4 md:w-1/3">
-            <h3 class="mb-5 text-xl font-semibold text-white">Kategori Tulisan</h3>
-            <ul class="text-slate-300">
-              <li>
-                <a href="#" class="mb-3 inline-block text-base hover:text-primary">Programming</a>
-              </li>
-              <li>
-                <a href="#" class="mb-3 inline-block text-base hover:text-primary">Teknologi</a>
-              </li>
-              <li>
-                <a href="#" class="mb-3 inline-block text-base hover:text-primary">Gaya Hidup</a>
-              </li>
-            </ul>
-          </div>
+
           <div class="mb-12 w-full px-4 md:w-1/3">
             <h3 class="mb-5 text-xl font-semibold text-white">Tautan</h3>
             <ul class="text-slate-300">
@@ -329,9 +258,7 @@
               <li>
                 <a href="#clients" class="mb-3 inline-block text-base hover:text-primary">Clients</a>
               </li>
-              <li>
-                <a href="#blog" class="mb-3 inline-block text-base hover:text-primary">Blog</a>
-              </li>
+
               <li>
                 <a href="#contact" class="mb-3 inline-block text-base hover:text-primary">Contact</a>
               </li>
@@ -342,22 +269,10 @@
         <div class="w-full border-t border-slate-700 pt-10">
           <div class="mb-5 flex items-center justify-center">
             <!-- Youtube -->
-            <a
-              href="https://youtube.com/webprogrammingunpas"
-              target="_blank"
-              class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-            >
-              <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <title>YouTube</title>
-                <path
-                  d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
-                />
-              </svg>
-            </a>
-
+          
             <!-- Instagram -->
             <a
-              href="https://instagram.com/sandhikagalih"
+              href="https://www.instagram.com/suryamaulnaa44/"
               target="_blank"
               class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
             >
@@ -369,37 +284,11 @@
               </svg>
             </a>
 
-            <!-- Twitter -->
-            <a
-              href="https://twitter.com/sandhikagalih"
-              target="_blank"
-              class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-            >
-              <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <title>Twitter</title>
-                <path
-                  d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"
-                />
-              </svg>
-            </a>
-
-            <!-- TikTok -->
-            <a
-              href="https://tiktok.com/@sandhika.galih"
-              target="_blank"
-              class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
-            >
-              <svg role="img" width="20" class="fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <title>TikTok</title>
-                <path
-                  d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"
-                />
-              </svg>
-            </a>
+            
 
             <!-- LinkedIn -->
             <a
-              href="https://linkedin.com/in/sandhikagalih"
+              href="https://www.linkedin.com/in/surya-maulana-akhmad-32a68a309/"
               target="_blank"
               class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
             >
@@ -412,7 +301,7 @@
             </a>
           </div>
           <p class="text-center text-xs font-medium text-slate-500">
-            Dibuat dengan <span class="text-pink-500">❤️</span> oleh <a href="https://instagram.com/sandhikagalih" target="_blank" class="font-bold text-primary">Sandhika Galih</a>, menggunakan
+            Dibuat dengan <span class="text-pink-500">❤️</span> oleh <a href="https://instagram.com/suryamaulnaa44" target="_blank" class="font-bold text-primary">Surya Maulana Akhmad</a>, menggunakan
             <a href="https://tailwindcss.com" target="_blank" class="font-bold text-sky-500">Tailwind CSS</a>.
           </p>
         </div>
